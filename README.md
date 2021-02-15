@@ -35,13 +35,12 @@ Esse projeto foi desenvolvido com a seguinte tecnologia:
 Ranek é um site de compras e vendas de produtos.
 
 <div align="center">
-  <img alt="Frontend-Web" src="./ranek-github/ranek%20preview.webm">
+  <img alt="" src="./ranek-github/ranek-2.png" width="40%">
+  <img alt="" src="./ranek-github/ranek-3.png" width="40%">
+  <img alt="" src="./ranek-github/ranek-4.png" width="50%">
 </div>
 
 ## :wrench: Instalação e uso
-
-Para rodar a aplicação, você precisa ter o [Node](https://nodejs.org/en/) instalado em sua máquina e seguir os passos abaixo:
-
 1) Abra um terminal e copie este repositório com o comando
     ```
     git clone https://github.com/Italo-Tech/Techno_1Vuejs
@@ -50,41 +49,24 @@ Para rodar a aplicação, você precisa ter o [Node](https://nodejs.org/en/) ins
 
 2) Entre na pasta com
     ```
-    cd techno
+    cd ranek_02Vuejs
     ```
 
 3) Instale as dependências
 
     ```
     yarn install
+    yarn add json-server
     ```
 
 4) Rode a aplicação:
     ```
     yarn serve
+    Abra um terminal e entre na pasta ranek-api e rode json-server ranek-api
     ```
 
-5) Acesse ```http://localhost:3000``` no seu navagador.
-
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve````
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
+5) Acesse ```http://localhost:8080``` no seu navagador para visualizar o projeto.
+5) Acesse ```http://localhost:3000``` no seu navagador para rodar nosso backend fake.
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
