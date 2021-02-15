@@ -11,7 +11,7 @@
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#wrench-instalação-e-uso">Instalação e uso</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#wrench-instalação-e-uso">Instalação e uso</a>;
 </p>
 
 <div align="center">
@@ -32,10 +32,10 @@ Esse projeto foi desenvolvido com a seguinte tecnologia:
 
 ## 💻 Projeto
 
-Techno é meu primeiro projeto com vuejs que visa em ser um e-commerce voltado para compras de produtos eletrônicos.
+Ranek é um site de compras e vendas de produtos.
 
 <div align="center">
-  <img alt="Frontend-Web" src="./public/github/gif1.gif">
+  <img alt="Frontend-Web" src="./ranek-github/ranek%20preview.webm">
 </div>
 
 ## :wrench: Instalação e uso
