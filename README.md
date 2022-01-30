@@ -43,7 +43,7 @@ Ranek é um site de compras e vendas de produtos.
 ## :wrench: Instalação e uso
 1) Abra um terminal e copie este repositório com o comando
     ```
-    git clone https://github.com/Italo-Tech/Techno_1Vuejs
+    git clone https://github.com/Italo-Tech/ranek-vuejs.git
     ```
    ou use a opção de download.
 
