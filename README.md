@@ -49,7 +49,7 @@ Ranek é um site de compras e vendas de produtos.
 
 2) Entre na pasta com
     ```
-    cd ranek_02Vuejs
+    cd ranek-vuejs
     ```
 
 3) Instale as dependências
